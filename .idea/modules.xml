@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIGateways/APIGateways.iml" filepath="$PROJECT_DIR$/APIGateways/APIGateways.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sweet-Home.iml" filepath="$PROJECT_DIR$/.idea/Sweet-Home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookingService/bookingService.iml" filepath="$PROJECT_DIR$/bookingService/bookingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/eurekaServer/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payementService/payementService.iml" filepath="$PROJECT_DIR$/payementService/payementService.iml" />
+    </modules>
+  </component>
+</project>
